@@ -24,6 +24,29 @@
 		]
 	},
 	{
+	"id": 1,
+	"category": "Education",
+	"question": "A set of intructions that tells the computer how to behave, what to do and derive at a solution to a particular problem is:",
+	"answerList": [
+		{
+		"ans": "Algorithm",
+		"status": 0
+		},
+		{
+		"ans": "Pseudocode",
+		"status": 0
+		},
+		{
+		"ans": "Programming",
+		"status": 0
+		},
+		{
+		"ans": "Program",
+		"status": 1
+		}
+		]
+	},
+	{
 	"id": 2,
 	"category": "Education",
 	"question": "A set of logically sequenced instructions that allows to find the solution to a problem is:",
