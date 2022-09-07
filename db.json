@@ -1,0 +1,349 @@
+{
+"quiz_list":[
+	{
+	"id": 1,
+	"category": "Education",
+	"question": "A set of intructions that tells the computer how to behave, what to do and derive at a solution to a particular problem is:",
+	"answerList": [
+		{
+		"ans": "Algorithm",
+		"status": 0
+		},
+		{
+		"ans": "Pseudocode",
+		"status": 0
+		},
+		{
+		"ans": "Programming",
+		"status": 0
+		},
+		{
+		"ans": "Program",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 2,
+	"category": "Education",
+	"question": "A set of logically sequenced instructions that allows to find the solution to a problem is:",
+	"answerList": [
+		{
+		"ans": "Algorithm",
+		"status": 1
+		},
+		{
+		"ans": "Pseudocode",
+		"status": 0
+		},
+		{
+		"ans": "Programming",
+		"status": 0
+		},
+		{
+		"ans": "Program",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 3,
+	"category": "Education",
+	"question": "The six stages of program development in logical order are:",
+	"answerList": [
+		{
+		"ans": "Define, Analyze, Write, Test, Document, Debug",
+		"status": 0
+		},
+		{
+		"ans": "Define, Analyze, Develop, Write, Test and Debug, Document",
+		"status": 1
+		},
+		{
+		"ans": "Define, Write, Develop, Analyze, Test, Document",
+		"status": 0
+		},
+		{
+		"ans": "Define, Develop, Write, Test, Document, Debug",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 4,
+	"category": "Education",
+	"question": "The programming language that is used to show pupils the concept and structure of programming is called:",
+	"answerList": [
+		{
+		"ans": "Basic",
+		"status": 0
+		},
+		{
+		"ans": "Cobol",
+		"status": 0
+		},
+		{
+		"ans": "Pascal",
+		"status": 1
+		},
+		{
+		"ans": "Java",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 5,
+	"category": "Education",
+	"question": "Java is an example of which generation programming language:",
+	"answerList": [
+		{
+		"ans": "4GLs",
+		"status": 1
+		},
+		{
+		"ans": "3rd",
+		"status": 0
+		},
+		{
+		"ans": "2nd",
+		"status": 0
+		},
+		{
+		"ans": "1st",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 6,
+	"category": "Education",
+	"question": "Which of the following generations of programming language executed code faster:",
+	"answerList": [
+		{
+		"ans": "4GLs",
+		"status": 0
+		},
+		{
+		"ans": "3rd",
+		"status": 0
+		},
+		{
+		"ans": "2nd",
+		"status": 0
+		},
+		{
+		"ans": "1st",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 7,
+	"category": "Education",
+	"question": "Algorithms must be all of the following except:",
+	"answerList": [
+		{
+		"ans": "Logical",
+		"status": 0
+		},
+		{
+		"ans": "Ambiguous",
+		"status": 1
+		},
+		{
+		"ans": "Concise",
+		"status": 0
+		},
+		{
+		"ans": "Precise",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 8,
+	"category": "Education",
+	"question": "Which language had codes such as MOV, ADD, SUB?",
+	"answerList": [
+		{
+		"ans": "Java",
+		"status": 0
+		},
+		{
+		"ans": "Binary",
+		"status": 0
+		},
+		{
+		"ans": "Pascal",
+		"status": 0
+		},
+		{
+		"ans": "Assembly",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 9,
+	"category": "Education",
+	"question": "Which of the following had executes programming codes line by line, rather than the whole program:",
+	"answerList": [
+		{
+		"ans": "Compiler",
+		"status": 0
+		},
+		{
+		"ans": "Interpreter",
+		"status": 1
+		},
+		{
+		"ans": "Executer",
+		"status": 0
+		},
+		{
+		"ans": "Translator",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 10,
+	"category": "Education",
+	"question": "All the following are examples of third programming language except:",
+	"answerList": [
+		{
+		"ans": "Pascal",
+		"status": 0
+		},
+		{
+		"ans": "C#",
+		"status": 1
+		},
+		{
+		"ans": "Basic",
+		"status": 0
+		},
+		{
+		"ans": "Fortran",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 11,
+	"category": "Education",
+	"question": "Which of the following provides a reuse mechanism?",
+	"answerList": [
+		{
+		"ans": "Abstarction",
+		"status": 0
+		},
+		{
+		"ans": "Inheritence",
+		"status": 1
+		},
+		{
+		"ans": "Dynamic Binding",
+		"status": 0
+		},
+		{
+		"ans": "Encapsulation",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 12,
+	"category": "Education",
+	"question": "Which of the following is not a type of constructor?",
+	"answerList": [
+		{
+		"ans": "Copy constructor",
+		"status": 0
+		},
+		{
+		"ans": "Default constructor",
+		"status": 0
+		},
+		{
+		"ans": "Friend constructor",
+		"status": 1
+		},
+		{
+		"ans": "Parameterized constructor",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 13,
+	"category": "Education",
+	"question": "Which of the following type of class allows only one object of it to be created?",
+	"answerList": [
+		{
+		"ans": "Abstract",
+		"status": 0
+		},
+		{
+		"ans": "Virtual",
+		"status": 0
+		},
+		{
+		"ans": "Singleton",
+		"status": 1
+		},
+		{
+		"ans": "Friend",
+		"status": 0
+		}
+		]
+	},
+	{
+	"id": 14,
+	"category": "Education",
+	"question": "What happens if the base and derived class contains definition of a function with same prototype?",
+	"answerList": [
+		{
+		"ans": "Compiler reports an error on compilation.",
+		"status": 0
+		},
+		{
+		"ans": "Only base class function will get called irrespective of object.",
+		"status": 0
+		},
+		{
+		"ans": "Only derived class function will get called irrespective of object.",
+		"status": 0
+		},
+		{
+		"ans": "Base class object will call base class function and derived class object will call derived class function.",
+		"status": 1
+		}
+		]
+	},
+	{
+	"id": 15,
+	"category": "Education",
+	"question": "Which of the following operator is overloaded for object cout?",
+	"answerList": [
+		{
+		"ans": "<<",
+		"status": 1
+		},
+		{
+		"ans": ">>",
+		"status": 0
+		},
+		{
+		"ans": "+",
+		"status": 0
+		},
+		{
+		"ans": "=",
+		"status": 0
+		}
+		]
+	}
+]
+}
